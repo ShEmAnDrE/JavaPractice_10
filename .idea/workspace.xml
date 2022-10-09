@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04aa340d-ee3d-4607-acd1-2bd65f76d2c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/AbstractChairFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AbstractChairFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Chair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ChairFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ChairFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ChairShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ChairShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/FunctionalChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FunctionalChair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/MagicChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MagicChair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/VictorianChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/VictorianChair.java" afterDir="false" />
-    </list>
+    <list default="true" id="04aa340d-ee3d-4607-acd1-2bd65f76d2c6" name="Changes" comment="2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +32,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/shemc/IdeaProjects/JavaPractice_10"
   }
 }]]></component>
   <component name="RunManager">
@@ -75,7 +65,16 @@
       <option name="presentableId" value="Default" />
       <updated>1665320874746</updated>
       <workItem from="1665320876005" duration="3313000" />
+      <workItem from="1665335453139" duration="300000" />
     </task>
+    <task id="LOCAL-00001" summary="2">
+      <created>1665335691751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665335691751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
 </project>
