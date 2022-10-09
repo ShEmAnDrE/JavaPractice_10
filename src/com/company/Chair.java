@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Chair {
+package com.company;
+public interface Chair {
 }
